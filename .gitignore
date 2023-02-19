@@ -1,1 +1,5 @@
 .DS_Store
+*.un~
+*.tf~
+terraform-demo-docker/terraform.tfstate
+terraform-demo-docker/terraform.tfstate.backup
